@@ -98,7 +98,7 @@ button.addEventListener("click", () => {
         square.forEach(element => {
             element.style.width = "100%";
             element.style.height  = "100%";
-            element.style.border = "solid 1px black"
+            element.style.border = "solid 1px black";
         })
     }
     
